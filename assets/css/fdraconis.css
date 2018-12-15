@@ -16,8 +16,9 @@ src: url('../fonts/Kankin.ttf');
 
 /*Youtube featured Video card*/
 .featureArticle {
-  padding: 10px;
-  display: block;
+    padding: 10px;
+    display: block;
+    height: 585px;
 }
 .featureVid {
 	position: relative;
